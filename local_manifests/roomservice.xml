@@ -12,8 +12,8 @@
   <project name="srgrusso/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="pie-m105" />
 
   <project name="srgrusso/android_hardware_samsung" path="hardware/samsung" remote="github" revision="los-16.0" />
-  
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />  
+
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 
   <remove-project name="AICP/hardware_interfaces" />
   <project name="srgrusso/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="gtaxl-aicp-14.0" />
