@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    
-  <project name="srgrusso/android_device_samsung_gts3lwifi" path="device/samsung/gts3lwifi" remote="github" revision="liquid-10.x" />
-  <!--  <project name="srgrusso/android_device_samsung_gts3llte" path="device/samsung/gts3llte" remote="github" revision="liquid-10.x" /> -->
-  
-  <project name="srgrusso/android_vendor_samsung_gts3lwifi" path="vendor/samsung/gts3lwifi" remote="github" revision="lineage-16.0" />
-  <project name="srgrusso/android_vendor_samsung_gts3llte" path="vendor/samsung/gts3llte" remote="github" revision="lineage-16.0" />
-  
-  <project name="srgrusso/android_kernel_samsung_msm8996" path="kernel/samsung/msm8996" remote="github" revision="lineage-16.0"/>  
-  
-  <project name="LineageOS/android_lineage-sdk" path="lineage-sdk" remote="github" revision="lineage-16.0"/>
-  <project name="LineageOS/android_hardware_lineage_lineagehw" path="hardware/lineage/lineagehw" remote="github" revision="lineage-16.0"/>
-  <project name="srgrusso/android_vendor_lineage" path="vendor/lineage" remote="github" revision="droiddoc"/>
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
-  
+
+  <!-- gts3l -->  
+  <project name="srgrusso/android_device_samsung_gts3lwifi" path="device/samsung/gts3lwifi" remote="github" revision="lineage-16.0"/>
+  <project name="srgrusso/android_kernel_samsung_msm8996" path="kernel/samsung/msm8996" remote="github" revision="lineage-16.0"/>
+  <project name="srgrusso/android_vendor_samsung_gts3lwifi" path="vendor/samsung/gts3lwifi" remote="github" revision="lineage-16.0"/>
+
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="los-16.0"/>   
+
 </manifest>
