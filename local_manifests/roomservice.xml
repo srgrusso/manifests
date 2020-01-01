@@ -10,6 +10,6 @@
    
   <project name="srgrusso/android_hardware_samsung" path="hardware/samsung" remote="github" revision="los-17.0" /> 
     
-  <project name="srgrusso/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="10-m105-r28" /> 
+  <project name="srgrusso/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="10-m105" /> 
    
 </manifest>
